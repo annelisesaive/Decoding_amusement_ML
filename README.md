@@ -1,4 +1,4 @@
-# A Time-Resolved Machine-Learning Model to Predict the Intensity of Amusement during Watching Humorous Videos
+# A Time-Resolved Machine-Learning Model to Predict the Intensity of Amusement during Video Viewing
 
 Code for the paper "Wait for it! Predicting the time course of humorous amusement using machine learning" 
 
