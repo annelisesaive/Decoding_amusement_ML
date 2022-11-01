@@ -1,4 +1,4 @@
-# Features Creation : Visual & Semantic
+# Video features & properties
 
 For this project, we wanted to use characteristics of neutral and humorous video to predict the perceived funninness. We used visual and semantic data.
 
