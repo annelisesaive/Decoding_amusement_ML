@@ -1,4 +1,4 @@
-# Behavioral Task used to collect data
+# Behavioral Task (Psychopy codes)
 
 **Experiment:** In this experiment, people were asked to watch and rated (likert scales: arousal, pleasantness, funniness) a series of videos (neutral, funny and very funny) while their facial expressions were recorded.  
 
